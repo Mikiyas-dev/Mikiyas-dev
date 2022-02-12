@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I'm Mikiyas and
 I'm currently studying at Blikent University CS Department!
 <!--
