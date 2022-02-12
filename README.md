@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Mikiyas! and
-I'm currently studying at Blikent University CS Department
+I'm Mikiyas and
+I'm currently studying at Blikent University CS Department!
 <!--
 **Mikiyas-dev/Mikiyas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
